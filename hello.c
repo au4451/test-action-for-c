@@ -2,6 +2,6 @@
 #include<stdlib.h>
 
 int main() {
-	print("Hello, World!\n");
+	printf("Hello, World!\n");
 	return EXIT_SUCCESS;
 }
